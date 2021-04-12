@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1618246880 source:c:\users\den4ik\appdata\pruchpr\projectuch\main.cpp
+	"plant.h"
+	<cmath>
+	<vector>
+	<iostream>
+
+1617033454 c:\users\den4ik\appdata\pruchpr\projectuch\plant.h
+
